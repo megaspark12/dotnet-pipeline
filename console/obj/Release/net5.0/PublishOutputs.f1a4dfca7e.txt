@@ -1,0 +1,4 @@
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/out/console.dll
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/out/console.deps.json
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/out/console.runtimeconfig.json
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/out/console.pdb

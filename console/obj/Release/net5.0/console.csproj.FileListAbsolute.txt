@@ -1,0 +1,15 @@
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/bin/Release/net5.0/console.deps.json
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/bin/Release/net5.0/console.runtimeconfig.json
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/bin/Release/net5.0/console.runtimeconfig.dev.json
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/bin/Release/net5.0/console.dll
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/bin/Release/net5.0/ref/console.dll
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/bin/Release/net5.0/console.pdb
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.csproj.AssemblyReference.cache
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.AssemblyInfoInputs.cache
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.AssemblyInfo.cs
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.csproj.CoreCompileInputs.cache
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.dll
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/ref/console.dll
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.pdb
+/Users/ronrave/learning-jenkins/pipeline-exercise/console/obj/Release/net5.0/console.genruntimeconfig.cache
