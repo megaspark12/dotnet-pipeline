@@ -3,7 +3,9 @@ pipeline {
     stages {
         stage("Build") {
             steps {
-                dotnetBuild()
+                dir("console") {
+                    dotnetBuild()
+                }
             }
         }
     }
