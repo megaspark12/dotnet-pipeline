@@ -15,7 +15,7 @@ pipeline {
             steps {
                 dir("tests") {
                     sh 'ls'
-                    echo "dotnet test
+                    echo "dotnet test"
                 }
             }
         }
