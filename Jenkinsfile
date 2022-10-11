@@ -8,5 +8,21 @@ pipeline {
                 }
             }
         }
+        
+        stage("Test") {
+            steps {
+                dir("tests") {
+                    dotnetTest()
+                }
+            }        
+        }
+        
+        stage("Run") {
+            steps {
+                dir("console") {
+                    sh 'dotnet run'
+                }
+            }        
+        }
     }
 }
