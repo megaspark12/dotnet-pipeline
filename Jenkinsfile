@@ -16,5 +16,13 @@ pipeline {
                 }
             }        
         }
+        
+        stage("Test") {
+            steps {
+                dir("tests") {
+                    sh 'dotnet test'
+                }
+            }
+        }
     }
 }
